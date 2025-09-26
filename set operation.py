@@ -1,0 +1,10 @@
+s1={12,24,36,48,60}
+s2={4,8,12,16,20,24}
+print(s1)
+print(s2)
+s3=s1.union(s2)
+print(s3)
+s4=s1.intersection(s2)
+print(s4)
+s5=s1.difference(s2)
+print(s5)
